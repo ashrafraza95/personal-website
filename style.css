@@ -1,0 +1,10 @@
+html{
+    background-color: aqua;
+}
+.inline{
+display: inline-block;
+}
+header{
+background-color: black;
+color: wheat;
+}
